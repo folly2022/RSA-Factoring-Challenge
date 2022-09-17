@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 from sys import argv
 from math import sqrt
@@ -6,9 +5,9 @@ import math
 
 def factor(number, test_num):
     #Finds the values to return once a number has been found
-    """
+    
 
-"""
+
     print("{}={}*{}".format(number, (number // test_num), test_num))
 
 
