@@ -33,10 +33,10 @@ from math import sqrt
 import math
 
 def factor(number, test_num):
-    """ Finds the values to return once a number has been found
+    #Finds the values to return once a number has been found
     """
 
-
+"""
     print("{}={}*{}".format(number, (number // test_num), test_num))
 
 
@@ -53,7 +53,7 @@ with open(argv[1], mode="r", encoding="UTF-8") as f:
                     break
                     
                     
-                    """
+"""
 """
 def factor():
     with open(argv[1]) as f:
